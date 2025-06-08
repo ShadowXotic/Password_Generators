@@ -69,4 +69,6 @@ Example Execution
 ```Your password is: aB3$dF!2```
 This script is a simple and effective way to generate random passwords using Python.
 
+This version also includes Versions in JavaScript, Ruby, and Perl, so make sure to check those out. Explanations for those files will not be provided.
+
 Stay tuned for more updates! @ShadowXotic
